@@ -1,0 +1,8 @@
+.vscode
+/test/_deps
+/test/bin
+/test/CMakeFiles
+/test/lib
+/test/output
+/test/cmake_install.cmake
+/test/CMakeCache.txt
